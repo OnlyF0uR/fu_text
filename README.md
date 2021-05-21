@@ -1,2 +1,5 @@
-# fu-text
-Furious Roleplay, Text Hologram Resource
+# fu_text
+Usage:
+```
+exports.fu_text:drawHologram(x, y, z + 1.25, '[~b~E~w~] Interact')
+```
